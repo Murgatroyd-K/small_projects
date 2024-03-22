@@ -1,4 +1,4 @@
-# S,all_Projects
+# Small_Projects
 
 ## Über dieses Repository
 
